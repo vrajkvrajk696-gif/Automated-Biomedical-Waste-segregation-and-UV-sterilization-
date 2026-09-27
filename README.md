@@ -1,0 +1,2 @@
+# Automated-Biomedical-Waste-segregation-and-UV-sterilization-
+Automated Biomedical Waste Management Using Arduino and UV Sterilization is a smart system that automates waste detection, sterilization, and segregation. Arduino UNO, sensors, conveyor belt, servo motor, and UV sterilization are integrated to reduce manual handling, improve hygiene, enhance safety, and efficiently separate biomedical waste.
